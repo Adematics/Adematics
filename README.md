@@ -7,7 +7,7 @@ Data Engineer | Technical writer
 * ✉️  You can contact me at [officialkingadeda@gmail.com](mailto:officialkingadeda@gmail.com )
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love driving solutions with Data :)
-* 📝  I regularly write articles on [Hashnode](https://hashnode.com/@Adematics)
+* 📝  I regularly write articles on [Hashnode](https://adematics.hashnode.dev/)
 * 🔭  You can learn more about me on my [website](https://adematics.com/)
 
 <a href="https://twitter.com/Ade_matics" target="_blank" rel="noreferrer"><img
