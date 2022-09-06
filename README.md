@@ -8,7 +8,7 @@ Data Engineer | Technical writer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love driving solutions with Data :)
 * 📝  I regularly write articles on [Hashnode](https://adematics.hashnode.dev/)
-* 🔭  You can learn more about me on my [website](https://adematics.com/)
+* 🔭  You can learn more about me on my [website](https://adematics.github.io/Portfolio-website/)
 
 <a href="https://twitter.com/Ade_matics" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Ade_matics?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
