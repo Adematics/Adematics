@@ -2,8 +2,8 @@ Hi 👋 My name is Faithful Adeda
 ================================
 
 Data Engineer | Technical writer 
+================================
 
-------------------------------------------------------
 
 * ✉️  You can contact me at [officialkingadeda@gmail.com](mailto:officialkingadeda@gmail.com )
 * 🤝  I'm open to collaborating on interesting projects
