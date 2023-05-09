@@ -2,7 +2,7 @@ Hi 👋 My name is Faithful Adeda
 ================================
 
 Data Engineer | Technical writer 
-[![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+
 ------------------------------------------------------
 
 * ✉️  You can contact me at [officialkingadeda@gmail.com](mailto:officialkingadeda@gmail.com )
