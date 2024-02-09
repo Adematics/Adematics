@@ -1,7 +1,7 @@
 Hi 👋 My name is Faithful Adeda
 ================================
 
-### Data Engineer | Technical writer 
+### Data Engineer | Technical writer | Machine Learning
 
 
 * ✉️  You can contact me at [officialkingadeda@gmail.com](mailto:officialkingadeda@gmail.com )
