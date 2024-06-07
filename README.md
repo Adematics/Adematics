@@ -16,6 +16,7 @@ src="https://img.shields.io/twitter/follow/Ade_matics?logo=twitter&style=for-the
 
 ### Skills/Interests
 <div>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -32,6 +33,7 @@ src="https://img.shields.io/twitter/follow/Ade_matics?logo=twitter&style=for-the
     <img src="https://img.shields.io/badge/Apache%20Kafka-017CEE?style=for-the-badge&logo=Apache%20Kafka&logoColor=black">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><br>
 </div>
