@@ -7,7 +7,7 @@ Hi 👋 My name is Faithful Adeda
 * ✉️  You can contact me at [officialkingadeda@gmail.com](mailto:officialkingadeda@gmail.com )
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love driving solutions with Data :)
-* 📝  I regularly write articles on [My Blog](https://linktr.ee/adematics)
+* 📝  I regularly write articles on [My Blog](https://adematics.github.io/Portfolio-website/#articles)
 * 🔭  You can learn more about me on my [website](https://adematics.github.io/Portfolio-website/)
 
 <a href="https://twitter.com/Ade_matics" target="_blank" rel="noreferrer"><img
